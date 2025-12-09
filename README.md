@@ -1,14 +1,15 @@
-### Hello, I'm Anushka Gattani
+### Hello, I'm Anushka Gattani<br>
 
-www.linkedin.com/in/anushka-gattani
-✉️anushkagattani1@gmail.com\n
+www.linkedin.com/in/anushka-gattani<br>
+✉️ anushkagattani1@gmail.com<br>
 📞 +91 9963213609
 
+
 ## ABOUT ME
-Computer Science undergraduate at VIT, passionate about building full-stack and AI-powered applications. 
-I enjoy working on projects that combine machine learning, backend systems. 
-Experienced with Python, FastAPI, Computer Vision, and deep learning models through hackathons and real-world projects.
-Currently learning about GenAI and LLMs.
+Computer Science undergraduate at VIT, passionate about building full-stack and AI-powered applications.<br>
+I enjoy working on projects that combine machine learning, backend systems. <br>
+Experienced with Python, FastAPI, Computer Vision, and deep learning models through hackathons and real-world projects.<br>
+Currently learning about GenAI and LLMs.<br>
 
 ##  💻 LANGUAGES
 
