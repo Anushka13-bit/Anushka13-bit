@@ -2,7 +2,7 @@
 
 www.linkedin.com/in/anushka-gattani<br>
 ✉️ anushkagattani1@gmail.com<br>
-📞 +91 9963213609
+
 
 
 ## ABOUT ME
