@@ -9,7 +9,7 @@ www.linkedin.com/in/anushka-gattani<br>
 Computer Science undergraduate at VIT, passionate about building full-stack and AI-powered applications.<br>
 I enjoy working on projects that combine machine learning, backend systems. <br>
 Experienced with Python, FastAPI, Computer Vision, and deep learning models through hackathons and real-world projects.<br>
-Currently learning about GenAI and LLMs.<br>
+Currently exploring GenAI and LLMs.<br>
 
 ##  💻 LANGUAGES
 
