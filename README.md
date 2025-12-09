@@ -1,7 +1,7 @@
 ### Hello, I'm Anushka Gattani
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/anushka-gattani)
-✉️anushkagattani1@gmail.com 
+www.linkedin.com/in/anushka-gattani
+✉️anushkagattani1@gmail.com\n
 📞 +91 9963213609
 
 ## ABOUT ME
